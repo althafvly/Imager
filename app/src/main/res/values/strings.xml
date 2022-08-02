@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Imager</string>
+    <string name="refresh_image">Refresh image</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="saved_image">Loaded last saved image</string>
 </resources>
