@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="refresh_image">ചിത്രം പുതുക്കുക</string>
+    <string name="no_internet">ഇന്റർനെറ്റ് കണക്ഷനില്ല</string>
+    <string name="saved_image">അവസാനം സംരക്ഷിച്ച ചിത്രം ലോഡ് ചെയ്തു</string>
+</resources>
