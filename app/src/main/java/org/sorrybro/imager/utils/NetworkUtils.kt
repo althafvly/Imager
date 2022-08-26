@@ -4,6 +4,7 @@ import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 
+
 object NetworkUtils {
     /**
      * Returns true whether internet connection is available

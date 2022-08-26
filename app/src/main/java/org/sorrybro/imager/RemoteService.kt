@@ -10,6 +10,7 @@ import android.util.Log
 import java.io.ByteArrayOutputStream
 import java.io.File
 
+
 class RemoteService : Service() {
 
     /**
